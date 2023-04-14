@@ -12,6 +12,12 @@ body {
   float: left;
 }
 
+.navbutton {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
 .center {
   text-align: center;
   background-color: rgb(133,133,133);
