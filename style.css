@@ -2,6 +2,16 @@ body {
   background-color: rgb(75,75,75);
 }
 
+.navbar {
+  display: inline;
+}
+
+.navsect {
+  display: block;
+  float: left;
+  padding: 8px;
+}
+
 .center {
   text-align: center;
   background-color: rgb(133,133,133);
