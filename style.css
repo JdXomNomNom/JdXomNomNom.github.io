@@ -6,10 +6,8 @@ body {
   display: inline;
 }
 
-.navsect {
-  display: block;
+.nav {
   float: left;
-  padding: 8px;
 }
 
 .center {
